@@ -12,7 +12,7 @@ This collection of MATLAB files is aimed at making computing the maximum-likelih
 References
 ----
 
- * J. Shang, Z. Zhang, and H. K. Ng (2016), Superfast maximum likelihood reconstruction for quantum tomography. *arXiv preprint arXiv:1609.07881*.
+ * J. Shang, Z. Zhang, and H. K. Ng, "[Superfast maximum likelihood reconstruction for quantum tomography](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.062336)," *Phys. Rev. A* **95**, 062336 (2017).
 
 
 License
